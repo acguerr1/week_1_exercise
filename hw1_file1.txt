@@ -4,3 +4,5 @@ mkdir hw1 --> creates new directory (folder) that is named hw1
 /hw1 --> moves me into directory (folder) named hw1
 touch hw1_file1.txt --> creates txt file called hw.file1 in the hw1 directory
 Anna Clemencia Guerrero; Jan 17, 2020; 14:37
+
+"Be like the cliff against which the waves continually break; but it stands firm and tames the fury of the water around it." -Marcus Aurelius
