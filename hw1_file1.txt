@@ -1,0 +1,5 @@
+cd ~ --> takes me to my home directory
+/Documents --> moves me from home directory into Documents directory (folder)
+mkdir hw1 --> creates new directory (folder) that is named hw1
+/hw1 --> moves me into directory (folder) named hw1
+touch hw1_file1.txt --> creates txt file called hw.file1 in the hw1 directory
